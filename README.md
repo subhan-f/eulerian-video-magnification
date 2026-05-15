@@ -4,13 +4,6 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Jupyter Notebook](https://img.shields.io/badge/notebooks-55%25-brightgreen)]()
 
-```
-      ____
- ___/    \___
-|            |
-|   MOTOR    |
-|____________|
-```
 
 **Detect motor faults by amplifying subtle vibrations in regular video using Eulerian Video Magnification (EVM) + Machine Learning.**
 
